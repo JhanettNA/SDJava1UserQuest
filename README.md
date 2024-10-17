@@ -27,4 +27,6 @@ When you run the program, it will prompt you with:
     What is your favourite colour?
     Finally, it will output:
     
-Ah, I see your quest is to <your quest>, and your favourite colour is <your colour>.
+Answer 
+    
+    Ah, I see your quest is to <your quest>, and your favourite colour is <your colour>.
